@@ -25,7 +25,7 @@ void saveData(List<ExpenseItem> allExpense){
     allExpensesFormatted.add(expenseFormatted);
   }
 
-  _myBox.put("All_EXPENSES", allExpensesFormatted);
+  _myBox.put("ALL_EXPENSES", allExpensesFormatted);
 }
 
 
